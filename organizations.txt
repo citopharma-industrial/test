@@ -1,1 +1,0 @@
-commit direto na main usando organizations
